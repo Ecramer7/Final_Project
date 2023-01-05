@@ -18,3 +18,5 @@ The data includes the names, ID's, name types, mass, and coordinates of the mete
 The most interesting way to interact with NASA's meteorite data is to see it visually displayed. Corelating the meteorites landings with the location visually on a map with be the main part of this project. To take the data a step further, Machine Learning will hopefully predict meteorites the location and times of the next hit.
 
 
+how the team communicates 
+why we selected the topic 
