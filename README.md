@@ -20,3 +20,4 @@ We plan on using Python to clean and analyze our data, PgAdmin for our databases
 ### Summary 
 
 The most interesting way to interact with NASA's meteorite data is to see it visually displayed. Corelating the meteorites landings with the location visually on a map with be the main part of this project. To take the data a step further, Machine Learning will predict the locations and times of the next few meteorite hits.
+
