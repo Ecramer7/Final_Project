@@ -27,3 +27,5 @@ https://docs.google.com/presentation/d/1HI_pxGFnGTWxMkYYfCUIom2jEIbnfm3WXMqSdlZB
 # ERD Graph
 ![Final_ERD](https://user-images.githubusercontent.com/111028230/211973463-443bfeb6-83bf-4a06-a097-e38ec1703b87.PNG)
 
+## Interactive Dashboard
+User will be able to choose location and class of meteor. Example below:
