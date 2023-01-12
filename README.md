@@ -26,3 +26,7 @@ https://docs.google.com/presentation/d/1HI_pxGFnGTWxMkYYfCUIom2jEIbnfm3WXMqSdlZB
 
 ## ERD Graph
 ![Final_ERD](https://user-images.githubusercontent.com/111028230/211974218-84185b2d-2c64-4a99-a15f-3ec992160871.PNG)
+
+## Tableau Dashboard
+Dashobard will be interactive. User will be able to choose location and class of meteorite. Example below:
+![Dashboard_example](https://user-images.githubusercontent.com/111028230/211974430-4374246a-9ffd-4eb3-98fb-60da3a7a395d.PNG)
