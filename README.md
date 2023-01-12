@@ -24,5 +24,5 @@ The most interesting way to interact with NASA's meteorite data is to see it vis
 ## Google Slides
 https://docs.google.com/presentation/d/1HI_pxGFnGTWxMkYYfCUIom2jEIbnfm3WXMqSdlZBKHc/edit#slide=id.g1cf27a2b1ae_0_6
 
-##ERD Graph
+## ERD Graph
 ![Final_ERD](https://user-images.githubusercontent.com/111028230/211974218-84185b2d-2c64-4a99-a15f-3ec992160871.PNG)
