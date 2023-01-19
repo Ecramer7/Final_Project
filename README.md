@@ -10,7 +10,7 @@ The meteorite data is sourced from data.nasa.gov and can be found at the followi
 
 https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
 
-The data includes the names, ID's, name types, mass, and coordinates of the meteorites that have hit earth. Using this data, we want to create a well put-together dashboard that will display the location of meteorite landing on earth. After properly sorting through our data and creating an interactive map, Machine Learning will be used to explore questions that go beyond the data. Linear regression will answer the following questions: Which continent has had the most meteorite hits? Based on the historical date, where and when will the next meteorite hit be?
+The data includes the names, ID's, name types, mass, and coordinates of the meteorites that have hit earth. Using this data, we created a well put-together dashboard that displays the locations of meteorite landing on earth. After properly sorting through our data and creating an interactive map, Machine Learning was be used to explore additional impact data to answer the next big questions. Kmeans predicted the following question: What will the next meteorite be made of?
 
 ### Tools 
 
