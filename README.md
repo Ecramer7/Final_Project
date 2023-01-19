@@ -14,7 +14,7 @@ The data includes the names, ID's, name types, mass, and coordinates of the mete
 
 ### Tools 
 
-We plan on using Python to clean and analyze our data, PgAdmin for our databases, Tableau to display the story of our dashboard, and a linear regression model to answer our questions. 
+We plan on using Python to clean and analyze our data, PgAdmin for our databases, and a linear regression model to answer our questions. Our dashboard was created using HTML, Javascript, JSON, and CSS.
 
 ### Summary 
 
