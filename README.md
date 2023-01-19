@@ -1,9 +1,8 @@
 # Final Project
 ## Segment 1 
 ### Topic 
-NASA provides data on the impact of meteorites on earth's surface. A meteorite is specifically a meteor that makes it through the atmosphere of a planet or moon. In this case, our data looks at meteorites that break the earth's atmosphere. Our team selected this topic because we have all had a fascination with space from early childhood. Additionally, we are trying to get in NASA's good graces for future job opportunities. ;) 
-
-Our team communicates regularly via slack and a group chat. We also plan to consistently meet on Saturdays. Our team dynamic consists of working on the majority of the work together, while ensuring our respective roles are completed for that week. I am happy to say our team is blessed to have a very dependable and highly communicative bunch. 
+NASA provides data on the impact of meteorites on earth's surface. A meteorite is specifically a meteor that makes it through the atmosphere of a planet or moon. In this case, our data looks at meteorites that break the earth's atmosphere. Our team selected this topic because we have all had a fascination with space from early childhood. Additionally, we are trying to get in NASA's good graces for future job opportunities. ;)
+Our team has communicated regularly via slack and a group chat. We also consistently met on Saturdays. Our team dynamic consists of working on the majority of the work together, while ensuring our respective roles are completed for that week. I am happy to say our team is blessed to have a very dependable and highly communicative bunch.
 
 ### Data Source 
 
