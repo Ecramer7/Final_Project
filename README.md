@@ -30,5 +30,5 @@ https://docs.google.com/presentation/d/1HI_pxGFnGTWxMkYYfCUIom2jEIbnfm3WXMqSdlZB
 The Dashobard is an interactive HTML Webpage. The user is able to choose location and class of meteorite. Rough draft below:
 ![Dashboard_example](https://user-images.githubusercontent.com/111028230/211974430-4374246a-9ffd-4eb3-98fb-60da3a7a395d.PNG)
 
-![Final Project Interactive Web Page](https://samuel-pacheco.github.io/Fallen_Sky.github.io/)
+[Final Project Interactive Web Page](https://samuel-pacheco.github.io/Fallen_Sky.github.io/)
 
