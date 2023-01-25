@@ -33,6 +33,6 @@ The Dashboard is an interactive HTML Webpage. The user is able to look at the lo
 
 ### Summary 
 
-The most interesting way to interact with NASA's meteorite data is to see it visually displayed. Correlating the meteorite landings with the location visually on a map was the main part of this project. To take the data a step further, we trained a Kmeans Machine Learning model to identify different classes of data. We also Used statistical analysis to identify meteorite with explosive characteristics: L6 and H6 classification types both create explosions on impact. 
+The most interesting way to interact with NASA's meteorite data is to see it visually displayed. Correlating the meteorite landings with the location visually on a map was the main part of this project. To take the data a step further, we trained a Kmeans Machine Learning model to identify different classes of data. We also Used statistical analysis to identify meteorite with explosive characteristics: L6 and H5 classification types both create explosions on impact. 
 
 In a future analysis we would acquire more data and use our machine learning model to predict the next meteorite location, mass, crater diameter, and material. We would also make our visuals more interactive. For example, we would have the dots that indicate meteorite landing locations be different sizes based on how large the meteorite was. In conclusion, this project was good experience to test our python, database, dashboard and modeling skills. The project has a lot of potential for future development. 
