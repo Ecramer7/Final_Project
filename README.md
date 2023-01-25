@@ -31,7 +31,7 @@ The Dashboard is an interactive HTML Webpage. The user is able to look at the lo
 
 [Final Project Interactive Web Page](https://samuel-pacheco.github.io/Fallen_Sky.github.io/)
 
-##Tableau graphs
+## Tableau Graphs
 ![image](https://user-images.githubusercontent.com/53358476/214455089-7d76af25-80cf-4933-aef6-2b79e4c35f90.png)
 
 [Impact and Mass Charts](https://public.tableau.com/shared/4H2PGM5WN?:display_count=n&:origin=viz_share_link)
