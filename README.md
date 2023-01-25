@@ -31,6 +31,11 @@ The Dashboard is an interactive HTML Webpage. The user is able to look at the lo
 
 [Final Project Interactive Web Page](https://samuel-pacheco.github.io/Fallen_Sky.github.io/)
 
+##Tableau graphs
+![image](https://user-images.githubusercontent.com/53358476/214455089-7d76af25-80cf-4933-aef6-2b79e4c35f90.png)
+
+[Impact and Mass Charts](https://public.tableau.com/shared/4H2PGM5WN?:display_count=n&:origin=viz_share_link)
+
 ### Summary 
 
 The most interesting way to interact with NASA's meteorite data is to see it visually displayed. Correlating the meteorite landings with the location visually on a map was the main part of this project. To take the data a step further, we trained a Kmeans Machine Learning model to identify different classes of data. We also Used statistical analysis to identify meteorite with explosive characteristics: L6 and H5 classification types both create explosions on impact. 
