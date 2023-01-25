@@ -10,7 +10,7 @@ The meteorite data is sourced from data.nasa.gov and can be found at the followi
 
 https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
 
-The data includes the names, ID's, name types, mass, and coordinates of the meteorites that have hit earth. Using this data, we created a well put-together dashboard that displays the locations of meteorite landing on earth. After properly sorting through our data and creating an interactive map, Machine Learning was used train and create a model that can identify different classifications of meteorites. Through our analysis we were able to answer the following question: What classes of meteorite cause explosions on impact versus just landing?
+The data includes the names, ID's, name types, mass, and coordinates of the meteorites that have hit earth. Using this data, we created an interactive dashboard that displays the locations of meteorite landings on earth. After properly sorting through our data and creating an interactive map, Machine Learning was used train and create a model that can identify different classifications of meteorites. Through our analysis we were able to answer the following question: What classes of meteorite cause explosions on impact versus just landing?
 
 ### Tools 
 
@@ -33,6 +33,6 @@ The Dashboard is an interactive HTML Webpage. The user is able to look at the lo
 
 ### Summary 
 
-The most interesting way to interact with NASA's meteorite data is to see it visually displayed. Correlating the meteorites landings with the location visually on a map was the main part of this project. To take the data a step further, we trained a Kmeans Machine Learning model to identify different classes of data. We also Used statistical analysis to identify meteorite with explosive characteristics: LL5. LL6 and HH5 classification types all create explosions on impact. 
+The most interesting way to interact with NASA's meteorite data is to see it visually displayed. Correlating the meteorite landings with the location visually on a map was the main part of this project. To take the data a step further, we trained a Kmeans Machine Learning model to identify different classes of data. We also Used statistical analysis to identify meteorite with explosive characteristics: L6 and H6 classification types both create explosions on impact. 
 
-In a future analysis we would acquire more data and use our machine learning model to predict the next meteorite location, mass, crater diameter, and material. We would also make our visuals more interactive. For example, we would have the dots that indicate meteorite landing locations be different sizes based on how large the meteorite was. In conclusion, this project was good experience to test or python, database, dashboard and modeling skills. The project has a lot of potential for future development. 
+In a future analysis we would acquire more data and use our machine learning model to predict the next meteorite location, mass, crater diameter, and material. We would also make our visuals more interactive. For example, we would have the dots that indicate meteorite landing locations be different sizes based on how large the meteorite was. In conclusion, this project was good experience to test our python, database, dashboard and modeling skills. The project has a lot of potential for future development. 
